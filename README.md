@@ -1,5 +1,5 @@
 <h1 align="center">Kawsar Alam</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Engineer</h3>
+<h3 align="center">MERN Stack Developer | Front-End Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-kawsar-alam997/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
