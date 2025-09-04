@@ -1,49 +1,51 @@
 <h1 align="center">Hi 👋, I'm Md Kawsar Alam</h1>
-<h3 align="center">Full-Stack Web Developer | PHP, Laravel & MySQL Specialist</h3>
+<h3 align="center">Full-Stack Web Developer | Frontend Enthusiast (React.js & Next.js)</h3>
 
 ---
 
 ## 🚀 About Me
-I am a passionate **Full-Stack Web Developer** specializing in **PHP, Laravel, and MySQL**.  
-I also work with modern technologies like **React.js, Next.js, Node.js, and MongoDB (MERN stack)** to build **scalable, secure, and high-performance applications**.  
+I am a **Full-Stack Web Developer** with a strong focus on **frontend development using React.js and Next.js**.  
+I build **modern, responsive, and interactive web applications** with clean, maintainable code.  
 
-- 🔭 I’m currently working on **Laravel & Next.js projects**  
-- 🌱 I’m learning **advanced system architecture & cloud deployment**  
-- 💬 Ask me about **PHP, Laravel, MySQL, React, MERN Stack**  
-- 📫 How to reach me: **mdkawsaralam537@gmail.com**  
-- ⚡ Fun fact: I love solving **complex problems with simple code**  
+- 🔭 Currently building **dynamic React & Next.js applications**  
+- 🌱 Exploring **advanced frontend patterns and state management**  
+- 💬 Ask me about **React, Next.js, Tailwind CSS, and modern frontend best practices**  
+- 📫 Reach me at: **mdkawsaralam537@gmail.com**  
 
 ---
 
-## 🛠️ Skills & Technologies  
-
-**Backend Development:**  
-`PHP` · `Laravel` · `Node.js` · `Express.js`  
+## 🛠️ Frontend Skills & Technologies
 
 **Frontend Development:**  
-`React.js` · `Next.js` · `Blade` · `Tailwind CSS` · `Bootstrap`  
+`React.js` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `HTML5` · `CSS3` · `JavaScript (ES6+)`  
 
-**Databases:**  
-`MySQL` · `MongoDB`  
+**State Management & Tools:**  
+`Redux` · `Context API` · `React Query` · `Axios` · `REST APIs`  
 
-**Other Tools & Practices:**  
-`Git/GitHub` · `Composer` · `REST APIs` · `JWT Authentication` · `Payment Integration` · `MVC Architecture`  
+**Backend Support (optional):**  
+`PHP` · `Laravel` · `MySQL`  
 
----
-
-## 📂 Featured Projects
-- **E-commerce Platform** → Multi-vendor support, coupons, payments, order workflows  
-- **School Management System** → Manage students, teachers, exams, notices  
-- **Affiliate Dashboard** → Track referrals, earnings, and team hierarchy  
-- **Custom APIs** → Secure authentication, role-based access, reporting  
+**Other Tools:**  
+`Git/GitHub` · `npm/yarn` · `Webpack` · `Vite` · `VS Code`  
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📂 Featured Frontend Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Portfolio Website](https://github.com/mdkawsaralam/portfolio) | Personal portfolio with interactive UI & animations | React.js, Tailwind CSS |
+| [E-commerce Frontend](https://github.com/mdkawsaralam/ecommerce-frontend) | Responsive multi-vendor storefront | React.js, Redux, Tailwind CSS |
+| [Blog Platform](https://github.com/mdkawsaralam/blog-platform) | Dynamic blog with Next.js & API integration | Next.js, React Query, Tailwind CSS |
+| [Dashboard UI](https://github.com/mdkawsaralam/dashboard-ui) | Admin dashboard with charts & tables | React.js, Chart.js, Tailwind CSS |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdkawsaralam&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkawsaralam&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdkawsaralam&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdkawsaralam&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
@@ -55,10 +57,11 @@ I also work with modern technologies like **React.js, Next.js, Node.js, and Mong
 ## 🌍 Connect With Me
 - 📧 Email: [mdkawsaralam537@gmail.com](mailto:mdkawsaralam537@gmail.com)  
 - 💼 LinkedIn: [Md Kawsar Alam](https://www.linkedin.com/in/md-kawsar-alam997)  
+- 🌐 Portfolio: [Your Portfolio URL]  
 
 ---
 
 ## 📌 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdkawsaralam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mdkawsaralam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
